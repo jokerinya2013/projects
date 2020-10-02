@@ -1,4 +1,4 @@
-# some-finished-links
+# Links of Some Basic Projects
 Just sharing of my finished trial projects
 
 ## A shopping list with Authentication Features
