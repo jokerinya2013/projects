@@ -1,10 +1,9 @@
-# Links of Some Basic Projects
-Just sharing of my finished trial projects
+# Links of Study Projects
+Here are some projects that I made. _Never stop learning_ :) 
 
-## 1. A shopping list with Authentication Features
- * Sample: https://jokerinyashopping.netlify.app
- * >(for look up --> test@test.com / 123456 )
- * Repo: https://github.com/jokerinya2013/toDoList
+* 1. A Shopping List with Authentication Features
+  - [Live Demo](https://jokerinyashopping.netlify.app) For Authentication -> test@test.com / 123456 
+  - Repo: https://github.com/jokerinya2013/toDoList
 
 ## 2. A Location Finder (With Vanilla.js & Maximilian Schwarzmüller)
 * https://js-static-trial.web.app/
