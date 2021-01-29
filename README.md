@@ -1,7 +1,8 @@
 # Links of Web Programming Study Projects
 
-Here are some projects that I made. _Never stop learning_ :)
-
+Here are some projects that I made. Most of them related to my frontend studies.  
+_Never stop learning..._  
+Here is the projects:  
 - A Shopping List with Authentication Features
 
   - [Live Demo](https://jokerinyashopping.netlify.app) For Authentication -> test@test.com / 123456
